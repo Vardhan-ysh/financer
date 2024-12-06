@@ -1,4 +1,4 @@
-# fin_tracker
+# financer
 
 A new Flutter project.
 
